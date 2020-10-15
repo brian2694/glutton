@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^0.5.12
-  encrypt: ^4.0.3
+  encrypt: ^4.0.1
 
 dev_dependencies:
   flutter_test:
